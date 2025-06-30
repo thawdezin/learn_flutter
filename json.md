@@ -442,7 +442,7 @@ Similar to nested arrays, but with objects.
   "user_profile": {
     "id": "xyz123",
     "name": "Jane Doe",
-    ""email": "jane.doe@example.com"
+    "email": "jane.doe@example.com"
   }
 }
 ```
